@@ -29,7 +29,6 @@ This project explores both the theoretical foundation and practical implementati
 
 - [`SMLq3a.ipynb`](./SMLq3a.ipynb) – Ridge regression derivation (theory)  
 - [`SMLq3b.ipynb`](./SMLq3b.ipynb) – Ridge vs Lasso implementation  
-- [`SML_Task3.pdf`](./SML_Task3.pdf) – Assignment description
 
 ---
 

@@ -45,7 +45,7 @@ This project was developed during my graduate studies in Data Analytics for Econ
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Ditep Nantap Rejoice  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/nantap-ditep-00490b231)
